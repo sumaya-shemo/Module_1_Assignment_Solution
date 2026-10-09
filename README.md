@@ -405,7 +405,7 @@ Screenshot 1 — Local application
 
 Show your browser displaying the demo page at <http://localhost:3000>.
 
-[Link-1](https://github.com/sumaya-shemo/Module_1_Assignment_Solution/blob/9664d1c0019ef584d9b889997afeb23043bf81d8/Localhost.png)
+https://github.com/sumaya-shemo/Module_1_Assignment_Solution/blob/9664d1c0019ef584d9b889997afeb23043bf81d8/Localhost.png
 
 
 **Expose local application using ngrok:**
