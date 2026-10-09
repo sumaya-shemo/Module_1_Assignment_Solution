@@ -424,7 +424,7 @@ Forwarding <https://unclip-luxury-chamber.ngrok-free.dev> -> <http://localhost:3
 
 Screenshot 2 — Public tunnel
 
-Link-2
+https://github.com/sumaya-shemo/Module_1_Assignment_Solution/blob/9664d1c0019ef584d9b889997afeb23043bf81d8/NGROKTerminal.png
 
 Show the ngrok terminal with the actual HTTPS forwarding URL and the local port 3000.
 
